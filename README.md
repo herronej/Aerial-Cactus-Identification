@@ -7,13 +7,13 @@ Uses datasets from Aerial Cactus Recognition Kaggle competition: https://www.kag
 * Data normalization
 * Dimensionality reduction
 * Classification with the following
-* MPP (case 1, 2, and 3)
-* kNN with different k's
-* BPNN 
-* Decision tree 
-* SVM 
-* clustering (kmeans, wta, kohonen, or mean-shift)
-* Classifier fusion
+** MPP (case 1, 2, and 3)
+** kNN with different k's
+** BPNN 
+** Decision tree 
+** SVM 
+** clustering (kmeans, wta, kohonen, or mean-shift)
+** Classifier fusion
 * Evaluation (use n-fold cross validation to generate confusion matrix and ROC curve if applicable).
 
 # Group Members: Emily Herron, Yu Jiang, Maria Mahbub
