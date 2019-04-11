@@ -16,4 +16,4 @@ Uses datasets from Aerial Cactus Recognition Kaggle competition: https://www.kag
 * Classifier fusion
 * Evaluation (use n-fold cross validation to generate confusion matrix and ROC curve if applicable).
 
-# Group Members: Emily Herron, Maria Mahbub, Yu Jiang
+# Group Members: Emily Herron, Yu Jiang, Maria Mahbub
